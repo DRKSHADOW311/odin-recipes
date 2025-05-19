@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    margin: 40px;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+    padding: 10px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}
+
+#homepage {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: 3px;
+}
+
+#homepage:hover {
+    color: yellow;
+    background-color: rgba(0, 0, 255, 0.2);
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+}
+
+h2 {
+    color: yellow;
+    padding: 10px;
+    border-bottom: 2px dotted white;
+}
+
+div {
+    border: 2px solid white;
+    padding: 3px;
+    background-color: rgba(0, 0, 255, 0.2);
+    color: lightyellow;
+}
+
