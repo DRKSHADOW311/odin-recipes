@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+    font-size: 40px;
+    padding: 10px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+.recipe-list {
+    background-color: rgba(0, 0, 255, 0.2);
+}
+
+a {
+    text-decoration: none;
+    color: lightyellow;
+    font-size: 18px;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.recipe {
+    color: white;
+    list-style:decimal-leading-zero;
+    margin: 10px 0px;
+}
